@@ -7,10 +7,10 @@
 
 int main() {
     int numeroFuncionario, horasTrabalhadas;
-    float valorHora, salario;
-    printf("Digite o numero do funcionario, horas trabalhadas e valor por hora:");
-    scanf("%d %d %f", &numeroFuncionario, &horasTrabalhadas, &valorHora);
-    salario = horasTrabalhadas * valorHora;
+    float valorPorHora, salario;
+    printf("Digite o numero do funcionario, as horas trabalhadas e o valor por hora:");
+    scanf("%d %d %f", &numeroFuncionario, &horasTrabalhadas, &valorPorHora);
+    salario = horasTrabalhadas * valorPorHora;
     printf("NUMBER = %d\n", numeroFuncionario);
     printf("SALARY = U$ %.2f\n", salario);
     return 0;
