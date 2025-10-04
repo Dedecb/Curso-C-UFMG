@@ -21,7 +21,7 @@
 ## ℹ️ Sobre o projeto  
 - **Autor:** André Luiz  
 - **Linguagens:** C e C++  
-- **Instituição:** PUC Minas  
+- **Instituição:** UFMG  
 - **Disciplina:** Algoritmos e Estruturas de Dados I  
 - **Status:** Em desenvolvimento constante ⚡  
 
