@@ -4,11 +4,9 @@
     Sou **André Luiz** e aqui registro meu aprendizado duranto o curso intensivo de C realizado na UFMG (Programação 101)
 
 ## 🗂️ Organização do Repositório  
-- Exercícios práticos em **C e **  
+- Exercícios práticos em **C**  
 - Estruturas de dados e algoritmos fundamentais  
-- Conteúdos desenvolvidos ao longo do curso **Programção 101**  
-
-*(novos materiais e exercícios serão adicionados continuamente)*  
+- Conteúdos desenvolvidos ao longo do curso **Programção 101**   
 
 ---
 
@@ -20,11 +18,8 @@
 
 ## ℹ️ Sobre o projeto  
 - **Autor:** André Luiz  
-- **Linguagens:** C e C++  
-- **Instituição:** UFMG  
-- **Disciplina:** Algoritmos e Estruturas de Dados I  
-- **Status:** Em desenvolvimento constante ⚡  
-
+- **Linguagens:** C   
+- **Instituição:** UFMG    
 ---
 
 ## 📜 Licença  
